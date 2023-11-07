@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@openreplay/tracker": "^3.5.11",
+    "@vercel/analytics": "^1.1.1",
     "axios": "^0.27.2",
     "mini-svg-data-uri": "^1.4.4",
     "prop-types": "^15.8.1",
@@ -28,7 +29,7 @@
     "typescript": "^4.6.3",
     "vite": "^2.9.7",
     "vite-plugin-pwa": "^0.12.0",
-    "vite-plugin-react-svg": "^0.2.0",
+    "vite-plugin-react-svg": "^0.1.0",
     "vite-plugin-svgr": "^2.1.0",
     "vite-svg-loader": "^3.3.0"
   }
